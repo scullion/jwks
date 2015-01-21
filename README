@@ -1,0 +1,7 @@
+A minimalistic Go library for dealing with JSON Web Key Sets. 
+
+The motivating use case is to maintain contact with Google's OAuth2 public key 
+set and verify tokens from Android clients.
+
+This library is currently in alpha stage. Please DO NOT use it in production.
+
